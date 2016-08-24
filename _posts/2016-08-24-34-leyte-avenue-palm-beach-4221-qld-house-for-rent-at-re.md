@@ -28,11 +28,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.rent.com.au/property-house-palm+beach-4221-1941267'
 title: '34 Leyte Avenue, Palm Beach 4221, QLD - House for Rent at rent.com.au'
-datePublished: '2016-08-24T22:56:33.152Z'
-dateModified: '2016-08-24T22:56:18.002Z'
+datePublished: '2016-08-24T22:58:16.741Z'
+dateModified: '2016-08-24T22:58:16.524Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-24-34-leyte-avenue-palm-beach-4221-qld-house-for-rent-at-re.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
