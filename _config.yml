@@ -1,14 +1,14 @@
 layout_spectrum: 0.9631104697473347
-typography_spectrum: 0.031161616323515773
+typography_spectrum: 0.6595116192474961
 color:
-  brandStrength: 0.0517764997202903
-  lightness: 0.4770587410312146
-  saturation: 0.23982372623868287
-  rhythmicContrast: 0.1288958382792771
+  brandStrength: 0.8379898581188172
+  lightness: 0.00009862380102276802
+  saturation: 0.8812418659217656
+  rhythmicContrast: 0.7724519888870418
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 name: ShoreDan Projects
